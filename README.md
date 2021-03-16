@@ -41,17 +41,15 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jeff-28's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jeff-28&show_icons=true&hide_border=true?theme=nightowl" />
+  <img align="left" alt="Jeff-28's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jeff-28&show_icons=true&hide_border=true?theme=nightowl"   />
 
 </details>
 
 <br />
 <br />
 
----
 <a href="https://iconscout.com/icons/c-programming" target="_blank">C programming Icon</a> by <a href="https://iconscout.com/contributors/icons8" target="_blank">Icons8</a>
 <a href="https://iconscout.com/icons/python" target="_blank">Python Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
----
 
 [twitter]: https://twitter.com/JeffMartinez28
 [instagram]: https://www.instagram.com/jeffmartinez28
