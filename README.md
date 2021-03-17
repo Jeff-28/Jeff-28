@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jeff-28's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jeff-28&theme=tokyonight&show_icons=true" />
+  <img width="425" align="left" alt="Jeff-28's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jeff-28&theme=tokyonight&show_icons=true" />
   
-  <a><img width="419" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-28&layout=compact&hide=perl&theme=tokyonight" /></a>
+  <img width="425" align="left" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-28&layout=compact&hide=perl&theme=tokyonight" />
 
 </details>
 
