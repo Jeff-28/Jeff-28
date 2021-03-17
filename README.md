@@ -1,4 +1,4 @@
-### Hi there, I'm Jeff 👋
+## Hi there, I'm Jeff 👋
 
 <!--
 **Jeff-28/Jeff-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Lifelong learning!
+### I'm a lifelong learner!
 
-- 🌱 I’m currently studying software engineering at Holberton School
+- 🌱 Currently studying software engineering at Holberton School
 - 🔭 Also working as Student Tutor at Holberton School
-- 👯 I’m looking to collaborate creating content
+- 👯 Looking forward to collaborate with other content creators
 - 🥅 2021 Goals: Complete my Full-Stack Developer certification
 - 🎭 Fun fact: I'm an Actor too 
 
