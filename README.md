@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Jeff-28 | Instagram" width="48px" src="/images/instagram_icon.png" />][instagram]
 
 <br />
+<br />
 
 ### Languages and Tools:
 
