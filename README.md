@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
   <img width="425" align="left" alt="Jeff-28's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jeff-28&theme=tokyonight&show_icons=true" />
   
-  <img width="425" align="left" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-28&layout=compact&hide=perl&theme=tokyonight" />
+  <img width="425" align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-28&layout=compact&hide=perl&theme=tokyonight" />
 
 </details>
 
