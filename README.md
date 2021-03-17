@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## A little bit about me:
+## Lifelong learning!
 
 - 🌱 I’m currently studying software engineering at Holberton School
 - 🔭 Also working as Student Tutor at Holberton School
 - 👯 I’m looking to collaborate creating content
 - 🥅 2021 Goals: Complete my Full-Stack Developer certification
-- ⚡ Fun fact: I also work as an actor 
+- 🎭 Fun fact: I'm an Actor 
 
 ### Connect with me:
 
@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img align="left" alt="C" width="32px" src="https://github.com/Jeff-28/AirBnB_clone/blob/master/web_static/images/c-programming.png" />
-<img align="left" alt="Python" width="32px" src="https://github.com/Jeff-28/AirBnB_clone/blob/master/web_static/images/python.png" />
+<img align="left" alt="C" width="32px" src="/images/c-programming.png" />
+<img align="left" alt="Python" width="32px" src="/images/python.png" />
 
 <br />
 <br />
@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jeff-28's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jeff-28&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img align="left" alt="Jeff-28's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jeff-28&theme=tokyonight&show_icons=true" />
+  
+  <a><img width="419" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-28&layout=compact&hide=perl&theme=tokyonight" /></a>
 
 </details>
 
