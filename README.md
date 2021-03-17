@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="Jeff-28 | Twitter" width="48px" src="/images/twitter_logo.jpg" />][twitter]
+[<img align="left" alt="Jeff-28 | Twitter" width="48px" src="/images/twitter_icon.png" />][twitter]
 [<img align="left" alt="Jeff-28 | LinkedIn" width="68px" src="/images/linkedin_logo.png" />][linkedin]
 [<img align="left" alt="Jeff-28 | Instagram" width="48px" src="/images/instagram.jpg" />][instagram]
 
