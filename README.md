@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeff-28)]            (https://github.com/anuraghazra/github-readme-stats)
+  
   <img width="425" align="left" alt="Jeff-28's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jeff-28&theme=tokyonight&show_icons=true" />
   
   <img width="425" align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-28&layout=compact&hide=perl&theme=tokyonight" />
