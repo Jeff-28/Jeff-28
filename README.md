@@ -1,8 +1,5 @@
 ## Hi there, I'm Jeff 👋
 
-<!--
-**Jeff-28/Jeff-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### I'm a lifelong learner
 
 - 🌱 Currently studying software engineering at Holberton School
