@@ -28,6 +28,9 @@
   
   <a><img width="425" align="left" alt="Jeff-28's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jeff-28&theme=tokyonight&show_icons=true" /></a>
   
+  <a><img height="165px" img align="center" alt="Lord-Gusarov's Stats" src="https://github-readme-stats.vercel.app/api?username=Lord-Gusarov&show_icons=true&theme=chartreuse-dark" />
+</a>
+  
   <a><img width="425" align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-28&layout=compact&hide=perl&theme=tokyonight" /></a>
 
 </details>
