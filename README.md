@@ -36,9 +36,6 @@
 <br />
 <br />
 
-<a href="https://iconscout.com/icons/c-programming" target="_blank">C programming Icon</a> by <a href="https://iconscout.com/contributors/icons8" target="_blank">Icons8</a>
-<a href="https://iconscout.com/icons/python" target="_blank">Python Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
-
 [twitter]: https://twitter.com/JeffMartinez28
 [instagram]: https://www.instagram.com/jeffmartinez28
 [linkedin]: https://www.linkedin.com/in/jeffreymartinez28
