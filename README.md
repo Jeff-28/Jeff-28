@@ -4,7 +4,7 @@
 
 - 🌱 Currently studying software engineering at Holberton School
 - 🔭 Also working as Student Tutor at Holberton School
-- :desktop_computer: Open to work (Junior Software Engineer, Web Developer)
+- :desktop_computer: Open to work
 
 ### Connect with me:
 
