@@ -2,9 +2,9 @@
 
 ### I'm a lifelong learner
 
-- 🌱 Currently studying software engineering at Holberton School
-- 🔭 Also working as Student Tutor at Holberton School
-- :desktop_computer: Open to work
+- 🖥️ Currently working as a Software Engineer and Education Lead at Holberton School
+- 🌱 A great communicator and teacher
+- 🔍 Open to work
 
 ### Connect with me:
 
