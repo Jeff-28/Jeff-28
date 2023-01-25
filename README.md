@@ -23,8 +23,8 @@
 <br />
 <br />
 
-  <summary>GitHub Stats</summary>
   <a><img width="425" align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-28&layout=compact&hide=perl&theme=tokyonight" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeff-28&show_icons=true&theme=tokyonight" alt="Jeff-28" width=420 height=180/>
 
 
 <br />
