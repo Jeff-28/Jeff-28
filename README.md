@@ -15,9 +15,9 @@
 <br />
 <br />
 
-<p align="center"><img width="425" height=180 align="left" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-28&layout=compact&hide=perl&theme=tokyonight" />
+<p align="center"><img width="360" height=180 align="left" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-28&layout=compact&hide=perl&theme=tokyonight" />
   <br />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jeff-28&show_icons=true&theme=tokyonight" alt="Github Stats" width=425 height=180/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jeff-28&show_icons=true&theme=tokyonight" alt="Github Stats" width=420 height=180/>
 </p>
 
 <br />
