@@ -16,7 +16,8 @@
 <br />
 
 <p align="center"><img width="425" height=180 align="left" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-28&layout=compact&hide=perl&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeff-28&show_icons=true&theme=tokyonight" alt="Github Stats" width=425 height=180/>
+  <br />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jeff-28&show_icons=true&theme=tokyonight" alt="Github Stats" width=425 height=180/>
 </p>
 
 <br />
