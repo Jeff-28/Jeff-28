@@ -8,29 +8,20 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Jeff-28 | Twitter" width="48px" src="/images/twitter_icon.png" />][twitter]
 [<img align="left" alt="Jeff-28 | LinkedIn" width="48px" src="/images/linkedin_icon.png" />][linkedin]
 [<img align="left" alt="Jeff-28 | Instagram" width="48px" src="/images/instagram_icon.png" />][instagram]
 
 <br />
 <br />
-
-### Languages and Tools:
-
-<img align="left" alt="C" width="32px" src="/images/c-programming.png" />
-<img align="left" alt="Python" width="32px" src="/images/python.png" />
-
-<br />
 <br />
 
-  <a><img width="425" align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-28&layout=compact&hide=perl&theme=tokyonight" /></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeff-28&show_icons=true&theme=tokyonight" alt="Jeff-28" width=420 height=180/>
-
+<p align="center"><img width="425" height=180 align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-28&layout=compact&hide=perl&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeff-28&show_icons=true&theme=tokyonight" alt="Github Stats" width=420 height=180/>
+</p>
 
 <br />
 <br />
 <br />
 
-[twitter]: https://twitter.com/JeffMartinez28
 [instagram]: https://www.instagram.com/jeffmartinez28
 [linkedin]: https://www.linkedin.com/in/jeffreymartinez28
