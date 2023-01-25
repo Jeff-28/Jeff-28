@@ -23,11 +23,9 @@
 <br />
 <br />
 
-<details>
   <summary>GitHub Stats</summary>
   <a><img width="425" align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-28&layout=compact&hide=perl&theme=tokyonight" /></a>
 
-</details>
 
 <br />
 <br />
