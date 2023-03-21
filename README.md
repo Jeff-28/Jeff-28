@@ -2,7 +2,7 @@
 <h3 align="center"><a href="mailto:jeff.martz28@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
 <a href='./jeff_resume2023.pdf'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
 <a href='https://devpost.com/software/betterhealth'><img src="https://img.shields.io/badge/BetterInfra-navy?style=for-the-badge"></a>
-<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)"> </h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=Jeff-28&label=Profile%20views&color=0e75b6&style=flat" alt="Jeff-28" /> </p>
+<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!"> </h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=Jeff-28&label=Profile%20views&color=0e75b6&style=flat" alt="Jeff-28" /> </p>
 
 	
 <p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeff-28&show_icons=true&locale=en&layout=compact&theme=radical" alt="Jeff-28" width=360 height=180/>
@@ -62,7 +62,6 @@
 
 ### Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
 <p align="center">
-	<a href="https://github.com/Jeff-28"><img src="https://icons-for-free.com/iconfiles/png/512/code+collaboration+github+network+round+social+icon-1320086084536018107.png" alt="GitHub" width = 40px></a>
 	<a href="https://www.linkedin.com/in/jeffreymartinez28/">.   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width = 40px></a>
 
 	
